@@ -11,6 +11,7 @@ public class Principal {
         }else{
             System.out.println("Error, ¿de que me hablas viejo?");
         }
+        System.out.println("Fin programa");
     }
    
 }
